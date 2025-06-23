@@ -33,7 +33,7 @@ Not all of these will be posted on GitHub, however they will always be posted in
 - Enjoy your new `.is-a.dev` domain! Please consider leaving us a star ⭐️ to help support us!
 
 ### NS Records
-When applying for NS records, please be aware we already support a [wide range of DNS records](https://docs.is-a.dev/faq/#which-records-are-supported), so you may not need them. 
+When applying for NS records please be aware we already support a [wide range of DNS records](https://docs.is-a.dev/faq/#which-records-are-supported), so you may not need them. 
 
 In your PR, please explain why you need NS records, including examples, to help mitigate potential abuse. Refer to the [FAQ](https://docs.is-a.dev/faq/#who-can-use-ns-records) for guidelines on allowed usage. Good examples of NS record requests are [#17592](https://github.com/is-a-dev/register/pull/17592) and [#18026](https://github.com/is-a-dev/register/pull/18026).
 
